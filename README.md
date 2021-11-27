@@ -1,11 +1,7 @@
 
 
-___
-```
-            You Visitors To:
-```
-<p align="center">
-   <img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'AM Farz
+   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="320">
 
  <a href="https://github.com/Faarz"><img src="https://cardivo.vercel.app/api?name=Veanyxz&description=Hi,%20i%27m%20Farz%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20&image=https://telegra.ph/file/ea896337043447f35deab.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@faaaarr__&github=Faarz&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
